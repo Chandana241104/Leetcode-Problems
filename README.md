@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2544-alternating-digit-sum](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
