@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2544-alternating-digit-sum) |
 ## Simulation
@@ -49,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
