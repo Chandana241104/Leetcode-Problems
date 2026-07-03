@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0819-most-common-word) |
+| [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -30,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0819-most-common-word) |
+| [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0819-most-common-word) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
