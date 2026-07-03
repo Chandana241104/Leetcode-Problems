@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2544-alternating-digit-sum) |
 ## Simulation
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
