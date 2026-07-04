@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
+| [2129-capitalize-the-title](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2129-capitalize-the-title) |
 ## Counting
 |  |
 | ------- |
