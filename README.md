@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0136-single-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0819-most-common-word) |
+| [0896-monotonic-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
