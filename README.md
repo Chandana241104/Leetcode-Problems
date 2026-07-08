@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2544-alternating-digit-sum) |
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
