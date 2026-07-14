@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0819-most-common-word) |
+| [0867-transpose-matrix](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
