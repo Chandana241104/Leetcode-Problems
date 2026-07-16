@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2670-find-the-distinct-difference-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
+| [2670-find-the-distinct-difference-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 ## Math
 |  |
 | ------- |
