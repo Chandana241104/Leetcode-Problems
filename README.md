@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
