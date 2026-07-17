@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
