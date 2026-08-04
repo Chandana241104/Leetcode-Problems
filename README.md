@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0867-transpose-matrix) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Chandana241104/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
