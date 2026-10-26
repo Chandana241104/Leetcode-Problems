@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
