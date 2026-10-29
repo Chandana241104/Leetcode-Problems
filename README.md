@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0896-monotonic-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Chandana241104/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
